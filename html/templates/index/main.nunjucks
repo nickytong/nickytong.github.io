@@ -12,6 +12,8 @@
 
     {% include "index/main/projects.nunjucks" %}
 
+    {% include "index/main/certificates.nunjucks" %}
+
     {% include "index/main/contact.nunjucks" %}
 
 

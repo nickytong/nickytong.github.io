@@ -35,6 +35,13 @@
                 </a>
             </li>
 
+            <li>
+                <a href="#certificates">
+                    <i class="fa fa-tasks"></i>
+                    <span>Courses</span>
+                </a>
+            </li>
+
             <li class="item-menu">
                 <a data-remodal-target="modalResumeDownload">
                     <i class="fa fa-cloud-download"></i>

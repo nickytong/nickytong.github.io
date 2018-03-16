@@ -1,62 +1,39 @@
 <li class="project-item">
-    <div class="item hvr-bubble-float-top">
-
-        <span class="lightgallery">
-            <a href="dist/images/projects/nbr-0.jpg" class="cover">
-                <img src="dist/images/projects/nbr-0.jpg" alt="NBR 12721 - Cover - Click in the arrow 'next'">
-            </a>
-            <a href="dist/images/projects/nbr-1.jpg">
-                <img src="dist/images/projects/nbr-1.jpg" alt="NBR 12721  - Header style">
-            </a>
-            <a href="dist/images/projects/nbr-2.jpg">
-                <img src="dist/images/projects/nbr-2.jpg" alt="NBR 12721  - Information text and icons">
-            </a>
-            <a href="dist/images/projects/nbr-3.jpg">
-                <img src="dist/images/projects/nbr-3.jpg" alt="NBR 12721 - Admin">
-            </a>
-        </span>
+    <div class="item hvr-reveal-float-top hvr-overline-from-left">
 
         <p class="title">
-            NBR 12721 - Enterprise page
-        </p>
+            <i class="fa fa-tasks title-icon"></i> Predicting chemotherapy response using high throughput gene expression data
+        </p> 
         <p class="text">
-            Enterprise page, the focus of this page is to introduce a company to customers, as well as to enable a faster form of contact.
+        <strong>Techniques</strong>: mixture model | maximum likelihood estimation| outlier detection | feature selection | 
+            classification | cross-validation
         </p>
-
-        <i class="fa fa-bars open-project" title="View More"></i>
-
-        <div class="project-info">
-            <div class="title">
-                <i class="fa fa-tasks title-icon"></i> Tasks
-                <i class="fa fa-close project-info-close"></i>
-            </div>
-            <div class="body">
+        <div class="body">
                 <p>
-                    Page created with PHP, the database was designed with Workbench.
                 </p>
                 <ul>
                     <li>
                         <div class="number">1</div>
-                        <div class="task-item-text">UI was created with Photoshop</div>
+                        <div class="task-item-text">
+                        Developed the bimodality index approach using mixture models to 
+                        identify features with sustained abnormality pattern. An R package 
+                        SIBER was published to facilitate bimodality index applications.
+                        </div>
                         <div class="clear"></div>
                     </li>
                     <li>
                         <div class="number">2</div>
-                        <div class="task-item-text">Front-End developed with HTML5+CSS3+JS</div>
+                        <div class="task-item-text">
+                           Built prediction models to classify chemotherapy response of cancer 
+                           patients based on genomic expression data using linear discriminant 
+                           analysis (LDA), k-nearest neighbors, support vector machine (SVM), 
+                           random forest, artificial neural network and gradient boosting.
+                        </div>
                         <div class="clear"></div>
                     </li>
-                    <li>
-                        <div class="number">3</div>
-                        <div class="task-item-text">Back-End in PHP + Mysql</div>
-                        <div class="clear"></div>
-                    </li>
-                    <li>
-                        <div class="number">4</div>
-                        <div class="task-item-text">Live Page <a href="http://nbr12721.com.br" target="_blank">Click Here</a> </div>
-                        <div class="clear"></div>
-                    </li>
+                    \
+                    
                 </ul>
-            </div>
         </div>
     </div>
 </li>
