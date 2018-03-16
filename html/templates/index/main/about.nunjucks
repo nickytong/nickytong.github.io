@@ -1,0 +1,107 @@
+<hr class="hr-about" id="about">
+
+<section class="section-model-1">
+
+    <header>
+        <h2>About</h2>
+        <h3>I am keen to practice full-stack data science and enjoy creating values from data :D</h3>
+    </header>
+
+    <div class="container">
+
+        <div class="text">
+            <p>
+               I encountered data science more than 10 years ago back in college where I was fascinated to find out that the speed of data generation was faster than the speed of analyzing it in Biology. This motivated me to pursue a Ph.D. in the intersection of statistics, computer science and biology. Over the years, I have developed several software tools and algorithms using mathematical and statistical models with broad applications in cancer research and drug development. Now my interest has expanded and I would like to tackle the challenging data from more diverse areas by applying the theories and practices of data mining gained to date.
+
+            </p>
+               Besides my job duty, I have worked on multiple side projects that have greatly expanded my knowledge and skills (for details, please refer to the project section). The habbit of constant learning, curiosity of new technologies as well as survival from Ph.D. training full of stress and uncertainty all make me a data scientist who gets work done :)
+            <p>
+            </p>
+
+        </div>
+
+        <div class="image">
+            <img src="dist/images/faviconPT_logo.png" alt="Pan Tong Logo">
+        </div>
+
+        <div class="user-data">
+            <div class="user-data-content">
+                <ul>
+
+                    <li>
+                        <div class="user-data-icon">
+                            <I class="fa fa-user-circle"></i>
+                        </div>
+                        <div class="user-data-text">
+                            Pan Tong
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="user-data-icon">
+                            <img src="dist/images/nationality_26.png" alt="Pan Tong Citizen">
+                        </div>
+                        <div class="user-data-text">
+                            Citizen: China, Permanent Resident: United States
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="user-data-icon">
+                             <I class="fa fa-suitcase"></i>
+                        </div>
+                        <div class="user-data-text">
+                            Experience of machine learning, big data, and LAMP stack
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="user-data-icon">
+                            <img src="dist/images/training_30.png" alt="Training">
+                        </div>
+                        <div class="user-data-text">
+                            Training in statistics, computer science and healthcare
+                        </div>
+                    </li>
+
+
+                    <li>
+                        <div class="user-data-icon">
+                             <img src="dist/images/trackrecord_30.png" alt="Track record">
+                        </div>
+                        <div class="user-data-text">
+                            Track record of developing novel algorithms and software tools
+                        </div>
+                    </li>
+                    <li>
+                        <div class="user-data-icon">
+                            <img src="dist/images/teamplayer_26.png" alt="Team player">
+                        </div>
+                        <div class="user-data-text">
+                            Team player with empathy
+                        </div>
+                    </li>
+
+                    <li>
+               
+                    </li>
+                </ul>
+
+            </div>
+
+            <div class="user-data-content no-border">
+                <ul class="continuate">
+                    <li>
+                        <I class="fa fa-circle"></i>
+                    </li>
+                    <li>
+                        <I class="fa fa-circle"></i>
+                    </li>
+                    <li>
+                        <I class="fa fa-circle"></i>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

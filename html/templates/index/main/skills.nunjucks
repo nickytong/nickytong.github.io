@@ -1,0 +1,104 @@
+<hr class="hr-skills" id="skills" xmlns="http://www.w3.org/1999/html">
+
+<section class="section-model-2">
+
+    <header>
+        <h2>Skills and Tools</h2>
+    </header>
+
+    <div class="container">
+
+        <ul>
+
+            <li class="hvr-wobble-to-bottom-right">
+                <div class="content">
+                    <div class="img-group">
+                        <img src="dist/images/R_logo.svg" title="R" alt="R">
+                        <img src="dist/images/Python-logo-notext.svg" title="Python" alt="Python">
+                        <img src="dist/images/mysql-icon.svg" title="SQL" alt="SQL">
+                        <img src="dist/images/SAS_logo_horiz.svg" title="SAS" alt="SAS">
+
+                    </div>
+
+                    <p class="text">
+                        For general data analytics, I primarily use R, Python, SQL and occasionally SAS/IML for data clean, analysis, visualization and reporting.                    </p>
+                </div>
+            </li>
+
+            <li class="hvr-wobble-to-bottom-right">
+                <div class="content">
+                    <div class="img-group">
+                        <img src="dist/images/sklearn4.svg" title="Sklearn" alt="Sklearn">
+                        <img src="dist/images/pandas1.svg" title="Pandas" alt="Pandas">
+                        <img src="dist/images/Matplotlib_icon2.svg" title="Matplotlib" alt="Matplotlib">
+                        <img src="dist/images/Tensorflow_logo2.svg" title="Tensorflow" alt="Tensorflow">
+                    </div>
+
+                    <p class="text">
+                        For machine learning tools, I am proficient in scikit-learn, pandas, numpy and matplotlib. I have also used Tensorflow-Keras for image classification problems. </p>
+                </div>
+            </li>
+
+            <li class="hvr-wobble-to-bottom-right">
+                <div class="content">
+                    <div class="img-group">
+                        <img src="dist/images/hadoop.svg" title="Hadoop" alt="Hadoop">
+                        <img src="dist/images/Apache_Spark2.svg" title="Spark" alt="Spark">
+                        <img src="dist/images/pig2.svg" title="Apache Pig" alt="Apache Pig">
+                        <img src="dist/images/Apache_Hive_logo.svg" title="Apache Hive" alt="Apache Hive">
+                    </div>
+
+                    <p class="text">
+                        For big data handling, I am familiar with Hadoop, Apache Spark, Pig, and Hive using AWS Cloud.
+                    </p>
+                </div>
+            </li>
+
+            <li class="hvr-wobble-to-top-right">
+                <div class="content">
+                    <div class="img-group">
+                        <img src="dist/images/textmining.svg" title="Text mining" alt="Text mining">
+                        <img src="dist/images/socialnetwork.svg" title="Network analysis" alt="Network analysis">
+                        <img src="dist/images/timeseries.svg" title="Time series" alt="Time series">
+                        <img src="dist/images/deeplearning.svg" title="Deep neural networks" alt="Deep neural networks">
+                    </div>
+
+                    <p class="text">
+                        In terms of various data mining areas, I have experience in text mining, social network analysis, time series forecasting and image analysis using deep neural networks.
+                    </p>
+                </div>
+            </li>
+
+            <li class="hvr-wobble-to-top-right">
+                <div class="content">
+                    <div class="img-group">
+                        <img src="dist/images/lamp.svg" title="LAMP" alt="LAMP">
+                        <img src="dist/images/webdev_2.svg" title="Web" alt="Web">
+                        <img src="dist/images/cloud-icon.svg" title="AWS" alt="AWS">
+                        <img src="dist/images/github-icon.svg" title="Git" alt="Git">
+                    </div>
+
+                    <p class="text">
+                        For data product development, I am skilled in the LAMP stack, web deployment, AWS and git version control.
+                    </p>
+                </div>
+            </li>
+
+            <li class="hvr-wobble-to-top-right">
+                <div class="content">
+                    <div class="img-group">
+                        <img src="dist/images/clustering.svg" title="Unsupervised" alt="Unsupervised">
+                        <img src="dist/images/classification.svg" title="Supervised" alt="Supervised">
+                        <img src="dist/images/featureengineering.svg" title="Feature engineering" alt="Feature engineering">
+                        <img src="dist/images/crossval-ML.svg" title="Cross validation" alt="Cross validation">
+                    </div>
+
+                    <p class="text">
+                        For machine learning tasks, I have a solid understanding of theroes and practices in unsupervised learning, supervised learning, feature engineering and cross-validation.
+                    </p>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+</section>

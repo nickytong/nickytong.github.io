@@ -1,0 +1,16 @@
+<footer class="footer-main">
+
+    <div class="social-medias">
+
+        <a href="https://github.com/nickytong" target="_blank"><i class="fa fa-github-square hvr-bob"></i></a>
+        <a href="https://www.linkedin.com/in/pan-tong-98155127" target="_blank"><i class="fa fa-linkedin-square hvr-bob"></i></a>
+        <a href="mailto:nickytong@gmail.com" target="_top"><i class="fa fa-envelope hvr-bob"></i></a>
+
+
+    </div>
+
+    <div class="text-final">
+        <a href="mailto:nickytong@gmail.com" target="_top">nickytong at gmail.com</a>
+    </div>
+
+</footer>
