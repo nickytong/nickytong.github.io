@@ -9,12 +9,13 @@
     <div class="container">
 
         <ul class="gallery">
-
+            {% include "index/main/courses/DS_Spark.nunjucks" %}
             {% include "index/main/courses/DS_python.nunjucks" %}
-            {% include "index/main/projects/project-2.nunjucks" %}
-            {% include "index/main/projects/project-4.nunjucks" %}
-            {% include "index/main/projects/project-5.nunjucks" %}
-            {% include "index/main/projects/project-6.nunjucks" %}
+            {% include "index/main/courses/DS_plot.nunjucks" %}
+            {% include "index/main/courses/DS_ML.nunjucks" %}
+            {% include "index/main/courses/DS_textmining.nunjucks" %}
+            {% include "index/main/courses/DS_network.nunjucks" %}
+
             
            
 

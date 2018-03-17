@@ -2,11 +2,13 @@
     <div class="item hvr-reveal-float-top hvr-overline-from-left">
 
         <p class="title">
-            <i class="fa fa-tasks title-icon"></i> Introduction to Data Science in Python <a href="https://www.coursera.org/account/accomplishments/verify/4TH4WRHBF7DP" target="_blank"><i class="fa fa-address-card title-icon2"></i></a>
+            <i class="fa fa-tasks title-icon"></i> Introduction to Apache Spark and AWS <a href="https://www.coursera.org/account/accomplishments/certificate/XK2SA3TXR8KG" target="_blank"><i class="fa fa-address-card title-icon2"></i></a>
 
         </p> 
         <p class="text">
-        This is the first course of <u><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/386Y59GKBERN" target="_blank"> Applied Data Science with Python</a></u>, a 5-course specialization by University of Michigan on Coursera. The course introduces:
+       This course introduces analysis of big data using Apache Spark on Amazon EC2 cloud computing facility. 
+        It covers: 
+
         </p>
         <div class="body">
                 <p>
@@ -15,28 +17,28 @@
                     <li>
                         <div class="number">1</div>
                         <div class="task-item-text">
-                            data manipulation and cleaning techniques using pandas
+                            launch, management, and configuration of Apache Spark clusters on Amazon EC2 using spark-ec2 package
                         </div>
                         <div class="clear"></div>
                     </li>
                     <li>
                         <div class="number">2</div>
                         <div class="task-item-text">
-                            how to use functions such as groupby, merge, and pivot tables effectively
+                            essential Spark operations such as read and write data through Amazon S3, the usage of RDD, data frame and the SQL query on data frame objects
                         </div>
                         <div class="clear"></div>
                     </li>
                     <li>
                         <div class="number">3</div>
                         <div class="task-item-text">
-                             basic inferential statistical analyses using Python
+                             Spark pipeline, caching, and how to manipulate RDF data using RDFlib and query it using SPARQL
                         </div>
                         <div class="clear"></div>
                     </li>
                     <li>
                         <div class="number">4</div>
                         <div class="task-item-text">
-                            <span class="task-item-highlight"> Course project </span>: investigate if university town housing prices were less affected by economic recessions using Zillow research data (https://www.zillow.com/research/data/) .
+                            <span class="task-item-highlight"> Course project </span>: Analyze ebooks from the Gutenberg Project (the largest collection of free ebooks) using Spark clusters on EC2. From the collection of unstructured data, I have extracted the number of times each ebook mentions males and females and finally store the structured data in a table format.
                         </div>
                         <div class="clear"></div>
                     </li>

@@ -2,7 +2,7 @@
     <div class="item hvr-reveal-float-top hvr-overline-from-left">
 
         <p class="title">
-            <i class="fa fa-tasks title-icon"></i> Building RESTful web service using Python and Django
+            <i class="fa fa-tasks title-icon"></i> Building RESTful web service using Django and R
         </p> 
         <p class="text">
         <strong>Techniques</strong>: Experimental design | Django | REST framework | Python-R Interface

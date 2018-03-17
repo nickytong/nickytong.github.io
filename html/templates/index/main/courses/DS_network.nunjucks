@@ -1,0 +1,55 @@
+<li class="project-item">
+    <div class="item hvr-reveal-float-top hvr-overline-from-left">
+
+        <p class="title">
+            <i class="fa fa-tasks title-icon"></i> Applied Social Network Analysis in Python <a href="https://www.coursera.org/account/accomplishments/certificate/XWYZ4F8H3RB4" target="_blank"><i class="fa fa-address-card title-icon2"></i></a>
+
+
+        </p> 
+        <p class="text">
+        This course introduces network analysis using the NetworkX library. It covers:
+        </p>
+        <div class="body">
+                <p>
+                </p>
+                <ul>
+                    <li>
+                        <div class="number">1</div>
+                        <div class="task-item-text">
+                            different network types and their representation, network connectivity such as clustering coefficient and transitivity, network robustness, 
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                    <li>
+                        <div class="number">2</div>
+                        <div class="task-item-text">
+                            importance metrics of nodes including degree, closeness, betweenness centrality and page rank, link prediction, and 
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                    <li>
+                        <div class="number">3</div>
+                        <div class="task-item-text">
+                             theoretical network models including Preferential Attachment Model and Small-World-Networks. 
+
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                    <li>
+                        <div class="number">4</div>
+                        <div class="task-item-text">
+                            <span class="task-item-highlight"> Course project A</span>: Given a company’s email network, predict whether an employee will receive a manager-level salary. Different node metrics and employee related features were used to optimize a gradient boosted decision trees classifier from cross-validation for final prediction. 
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                    <li>
+                        <div class="number">5</div>
+                        <div class="task-item-text">
+                            <span class="task-item-highlight"> Course project B</span>: Given an employee connection network, predict future connections that employees will build later.  
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                </ul>
+        </div>
+    </div>
+</li>
