@@ -10,7 +10,7 @@
 
         <ul class="gallery">
 
-            {% include "index/main/projects/project-1.nunjucks" %}
+            {% include "index/main/courses/DS_python.nunjucks" %}
             {% include "index/main/projects/project-2.nunjucks" %}
             {% include "index/main/projects/project-4.nunjucks" %}
             {% include "index/main/projects/project-5.nunjucks" %}

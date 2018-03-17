@@ -1,0 +1,45 @@
+<li class="project-item">
+    <div class="item hvr-reveal-float-top hvr-overline-from-left">
+
+        <p class="title">
+            <i class="fa fa-tasks title-icon"></i> Introduction to Data Science in Python
+        </p> 
+        <p class="text">
+        This is the first course of <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/386Y59GKBERN" target="_blank"> Applied Data Science with Python</a>, a 5-course specialization by University of Michigan on Coursera. 
+        </p>
+        <div class="body">
+                <p>
+                </p>
+                <ul>
+                    <li>
+                        <div class="number">1</div>
+                        <div class="task-item-text">
+                            data manipulation and cleaning techniques using pandas
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                    <li>
+                        <div class="number">2</div>
+                        <div class="task-item-text">
+                            how to use functions such as groupby, merge, and pivot tables effectively
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                    <li>
+                        <div class="number">3</div>
+                        <div class="task-item-text">
+                             basic inferential statistical analyses using Python
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                    <li>
+                        <div class="number">4</div>
+                        <div class="task-item-text">
+                            <style="color:red"> Course project: investigate if university town housing prices were less affected by economic recessions using Zillow research data (https://www.zillow.com/research/data/) </style>.
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                </ul>
+        </div>
+    </div>
+</li>
