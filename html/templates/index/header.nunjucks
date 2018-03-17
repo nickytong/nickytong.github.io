@@ -96,9 +96,8 @@
     <button data-remodal-action="close" class="remodal-close"></button>
     <h3>Resume</h3>
     <p onclick="fechar()">
-        Choose a Resume version to download.
+        Here is the PDF version of my resume
     </p>
     <br>
-    <a href="dist/files/Resume_Pan Tong.docx" onclick="closeModalResumeDownload();" target="_blank"><button class="remodal-cancel no-select">Word</button></a>
     <a href="dist/files/Resume_Pan Tong.pdf" onclick="closeModalResumeDownload();" target="_blank"><button class="remodal-confirm no-select">PDF</button></a>
 </div>
