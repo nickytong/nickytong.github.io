@@ -122,7 +122,7 @@ hr.hr-skills{
       li:nth-child(even){
 
         .content{
-          background-color: rgba(#000,0.04);
+          background-color: darken($main-secondary-color, 5%);
           margin: 0 auto;
         }
         @include mobile-landscape{
